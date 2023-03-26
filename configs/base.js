@@ -1,3 +1,5 @@
+const confusingBrowserGlobals = require('confusing-browser-globals');
+
 module.exports = {
   rules: {
     // Based on Airbnb's ESLint config:
